@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mumtajreatlive/static/css/main.112cd274.chunk.css",
+    "main.js": "/mumtajreatlive/static/js/main.cf12d0cf.chunk.js",
+    "main.js.map": "/mumtajreatlive/static/js/main.cf12d0cf.chunk.js.map",
+    "runtime-main.js": "/mumtajreatlive/static/js/runtime-main.a5f5a1d9.js",
+    "runtime-main.js.map": "/mumtajreatlive/static/js/runtime-main.a5f5a1d9.js.map",
+    "static/js/2.1115e20b.chunk.js": "/mumtajreatlive/static/js/2.1115e20b.chunk.js",
+    "static/js/2.1115e20b.chunk.js.map": "/mumtajreatlive/static/js/2.1115e20b.chunk.js.map",
+    "index.html": "/mumtajreatlive/index.html",
+    "precache-manifest.aaf5b2b054b861dbb9a61b7cc8ef184d.js": "/mumtajreatlive/precache-manifest.aaf5b2b054b861dbb9a61b7cc8ef184d.js",
+    "service-worker.js": "/mumtajreatlive/service-worker.js",
+    "static/css/main.112cd274.chunk.css.map": "/mumtajreatlive/static/css/main.112cd274.chunk.css.map",
+    "static/js/2.1115e20b.chunk.js.LICENSE.txt": "/mumtajreatlive/static/js/2.1115e20b.chunk.js.LICENSE.txt",
+    "static/media/image.png": "/mumtajreatlive/static/media/image.d7265326.png",
+    "static/media/mumtaj.jpg": "/mumtajreatlive/static/media/mumtaj.3913ae80.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5f5a1d9.js",
+    "static/js/2.1115e20b.chunk.js",
+    "static/css/main.112cd274.chunk.css",
+    "static/js/main.cf12d0cf.chunk.js"
+  ]
+}
