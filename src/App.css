@@ -1,0 +1,30 @@
+body {
+  background: repeating-linear-gradient(45deg, #fff, #fff 10px, #fcfcfc 10px, #f9f9f9 20px);
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.image {
+  width: 100%;
+  margin-top: 50px !important;
+}
+
+@media(max-width:770px) {
+  .container {
+    margin: 0 10%;
+  }
+
+  .image {
+    width: 100%;
+  }
+}
+
+.powered h1 {
+  align-items: center;
+  align-content: center;
+}

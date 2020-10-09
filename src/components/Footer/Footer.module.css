@@ -1,0 +1,34 @@
+h1 {
+
+    text-align: center;
+
+}
+
+.mImage {
+    align-items: center;
+    align-content: center;
+    margin-left: 61px;
+}
+
+.container {
+    display: flex;
+}
+
+.gud {
+    margin-top: 80px;
+    width: 100%;
+    height: 100%;
+}
+
+.container {
+    text-align: right;
+
+    /* media queries */
+    @media (max-width: 767px) {
+        display: block;
+    }
+
+    @media (max-width: 400px) {
+        display: block;
+    }
+}
